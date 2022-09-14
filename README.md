@@ -28,14 +28,14 @@ The bike sharing `cnt` is dependent on the season, feeling temperature, yr and w
 
 
 ## Technologies Used
-# Linear algebra & data processing
+### Linear algebra & data processing
 numpy	
 pandas
-# Scientific and technical computing
+### Scientific and technical computing
 scipy
-# Estimate statistical models, and perform statistical tests
+### Estimate statistical models, and perform statistical tests
 statsmodels 
-# Visualization
+### Visualization
 matplotlib 
 plotly
 seaborn
